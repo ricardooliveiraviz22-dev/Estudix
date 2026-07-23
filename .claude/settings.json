@@ -1,0 +1,10 @@
+{
+  "enabledPlugins": {
+    "expo@claude-plugins-official": true
+  },
+  "permissions": {
+    "allow": [
+      "Bash(node \"C:\\\\Users\\\\ADM\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ADM-Downloads-estudix\\\\e47f1957-8318-4d03-bc57-e0d326bd60a2\\\\scratchpad\\\\drive5.js\")"
+    ]
+  }
+}
